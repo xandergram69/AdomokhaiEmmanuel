@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://only-1-virus.netlify.app" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95747087/262496738-a9f65423-3ea1-440c-b320-d710ad332468.png" alt="my banner"></a>
+  <a href="https://only-1-virus.netlify.app" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95747087/262497094-6c655ce7-702c-47f3-805a-78eb5f5b740f.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
