@@ -3,14 +3,14 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://only-1-virus.netlify.app/" target="_blank" rel="noreferrer">Virus</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻, Mobile Developer 📲, Hacker 🧑🏽‍💻, Content Creator (Playboi_xander) 📸,  Video Editor and Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I am a student who try to balance Living life, Work, study and Content Creation together. I generally lose track of time when coding and im always open to learn new things
 
 ### 🤝 Connect with me:
 
