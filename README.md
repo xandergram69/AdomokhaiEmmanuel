@@ -92,16 +92,16 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
  ### Others
  <div align="center">
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop" height="15"  />
  
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="After Effect" height="25"  />
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/premiere.svg" alt="IOS" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MSOffice" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"  />
-  <img style="margin: 10px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="After Effect" height="15"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/premiere.svg" alt="IOS" height="15"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" height="15"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="15"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MSOffice" height="15"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="15"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="15"  />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="15"  />
       
 
         	
