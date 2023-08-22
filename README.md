@@ -22,15 +22,19 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- An attendance system with Geo-fencing
+- Instagram clone (Mobile App)
+- Mobile + Desktop Tiktok Clone (Working on it soon...)
+- Updating My Portfolio
+- Going into Machine Learning / AI
+- My Flutter skills
+- My React Skills
+- My Hacking skills 
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
 - Firebase
-- React Context API
-- Styled Components  
+- Flutter
+- Tensor Flow
+- Cyber-Security and hacking
