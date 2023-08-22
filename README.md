@@ -76,7 +76,7 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
 ### Mobile Dev
 <div align="center">
-    <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="50" </a>
+    <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25" </a>
 </tr></table>  
 
 <br/>  
