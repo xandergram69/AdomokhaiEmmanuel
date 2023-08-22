@@ -115,7 +115,7 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />  align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" align="left" />
 
 </td></tr></table>  
 
