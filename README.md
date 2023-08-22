@@ -13,9 +13,10 @@ I'm a Full-Stack Web Developer 💻, Mobile Developer 📲, Hacker 🧑🏽‍�
 I am a student who try to balance Living life, Work, study and Content Creation together. I generally lose track of time when coding and im always open to learn new things
 
 ### 🤝 Connect with me:
-
+-Email: xandergram69@gmail.com
 <a href="https://www.tiktok.com/@playboi_xander"><img align="left" src="https://user-images.githubusercontent.com/95747087/262498850-386ad90f-ce86-426d-9414-d451b954d0d4.png" alt="Playboi_xander | Tiktok" width="21px"/></a>
 <a href="https://instagram.com/playboi_xander"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Playboi_xander | Instagram" width="21px"/></a>
+<a href="https://instagram.com/playboi_xander"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Virus | Email" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -79,7 +80,10 @@ I am a student who try to balance Living life, Work, study and Content Creation 
     <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25"/> </a>
       <a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" height="25" /> </a>
  <a href="https://www.flutter.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="25" /> </a>
- <a href="https://www.flutter.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="IOS" height="25"  /></a>
+  <a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="25" /> </a>
+<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" height="25" /> </a>
+
+  
  </div>
 
  </td><td valign="top" width="25%">
@@ -88,15 +92,16 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
  ### Others
  <div align="center">
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop" height="25"  />
  
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="After Effect" height="25"  />
  <img style="margin: 10px" src="https://aleen42.github.io/badges/src/premiere.svg" alt="IOS" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="IOS" height="25"  />
- <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="IOS" height="25"  />
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
- <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
-
+ <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MSOffice" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="25"  />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="25"  />
       
 
         	
