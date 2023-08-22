@@ -76,8 +76,28 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
 ### Mobile Dev
 <div align="center">
-    <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25" </a>
-      <a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Android" height="25" </a>
+    <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="25"/> </a>
+      <a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" height="25" /> </a>
+ <a href="https://www.flutter.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="25" /> </a>
+ <a href="https://www.flutter.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="IOS" height="25"  /></a>
+ </div>
+
+ </td><td valign="top" width="25%">
+
+
+
+ ### Others
+ <div align="center">
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
+ 
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/after_effects.svg" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/premiere.svg" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
+ <img style="margin: 10px" src="https://aleen42.github.io/badges/src/photoshop.svg" alt="IOS" height="25"  />
+
+      
 
         	
 </tr></table>  
