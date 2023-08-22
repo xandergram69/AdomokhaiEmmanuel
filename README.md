@@ -121,10 +121,6 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 
 <br/>  
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
-</div>  
-  
 
 <br/>  
 
