@@ -125,11 +125,7 @@ I am a student who try to balance Living life, Work, study and Content Creation 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/jamilamasa" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+           <a href="buymeacoffee.com/virus69" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+            </div>
 <br />
 
